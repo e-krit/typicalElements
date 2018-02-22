@@ -1,7 +1,7 @@
-# Element effects
-Element effects
-  - Transition
-  - Transition к элемету
-  - Transition к псевдоэлементам before, after
-  - Transition к псевдоэлементам before, after
-  - Filter
+# Typical Elements
+Typical Elements
+  - Меню
+  - Карточка товара
+  - Список товаров
+  - Список товаров с различными представлениями (плитка, список, таблица)
+  - Задание
